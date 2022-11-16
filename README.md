@@ -3,7 +3,7 @@
 
 This is my text under level 1. This is for the **Introduction to Software Technology** class at *Towers High School*!Links are easy to make - the high school can be found[here](https://www.towershs.dekalb.k12.ga.us/).
 
-![The Towers High School and Dekalb County schools logos](https://towershs.k12.ga.us/sysimages/logo.png)
+![The Towers High School and Dekalb County schools logos](https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)
 
 Three things we want to cover are:
 1.How to use GitHub
